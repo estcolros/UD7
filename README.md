@@ -4,7 +4,7 @@
 
 | Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
 | --- | :---:  | :---:  | :---:  | :---: | :---:  |
-| Estefania Colombo Rosario | Master / Dev1 | Project Manager | 15/02/2021 |   |   |
+| Estefania Colombo Rosario | Master / Dev1 | Project Manager | 15/02/2021 |   | 1.0  |
 
 #### 2.Descripción 
 ```
